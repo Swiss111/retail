@@ -5,7 +5,11 @@
 Dataset: Retail Supply Chain & Sales Dataset
 
 * Project Preview:
+
 ![retail power.png](https://github.com/Swiss111/Swissmain.github.io/blob/f7db56e8bd54bb0d63357159e00b4fd8bfad048d/assets/images/retail%20power.png)
+
+
+
 ![retail 3.png](https://github.com/Swiss111/Swissmain.github.io/blob/f7db56e8bd54bb0d63357159e00b4fd8bfad048d/assets/images/retail%203.png)
 
 
