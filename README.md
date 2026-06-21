@@ -4,8 +4,8 @@
 
 Dataset: Retail Supply Chain & Sales Dataset
 
-* View Dashboard
-* Project Preview:
+* Project Preview: ![retail power.png](https://github.com/Swiss111/Swissmain.github.io/blob/f7db56e8bd54bb0d63357159e00b4fd8bfad048d/assets/images/retail%20power.png)
+
 
 The goal of this Power BI dashboard project is to analyze retail sales performance, profitability, customer behavior, discount effectiveness, product category performance, and regional trends to support strategic business decisions.
 
